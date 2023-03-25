@@ -10,7 +10,7 @@ public class Main {
             System.out.println("Wybierz opcje");
             System.out.println("1. Dodaj element na stos");
             System.out.println("2. Usun element ze stosu");
-            System.out.println("3. Wyswietl zawartosc sotsu");
+            System.out.println("3. Wyswietl zawartosc stosu");
             System.out.println("4. Wyjdz");
 
             int choice = scanner.nextInt();
